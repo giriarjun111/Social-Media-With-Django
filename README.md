@@ -3,10 +3,6 @@
 A Social Networking site where user can share their views, like or dislike other users post, 
 and leave a comment other users post.
 
-# Project Live @https://socialmedia.onrender.com/
-
-### Note: The live site is hosted on free tier @render.com, so it may take some time to load the data.
-
 ## Installation
 
 Start by either Downloading Zip file or Clone the repo
