@@ -159,3 +159,7 @@ CLOUDINARY_STORAGE = {
 
 
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
+
+# Configure Django App for Heroku.
+import django_on_heroku
+django_on_heroku.settings(locals())
